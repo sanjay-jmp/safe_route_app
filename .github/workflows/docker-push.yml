@@ -3,7 +3,7 @@ name: CI/CD - Build, Push, and Deploy Docker Images
 on:
   push:
     branches:
-      - main  # change if you use a different default branch
+      - master  # change if you use a different default branch
 
 jobs:
   build-and-push:
