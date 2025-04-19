@@ -1,0 +1,4 @@
+Flask==3.0.3
+flask_cors==5.0.1
+networkx==3.4.1
+osmnx==2.0.1
